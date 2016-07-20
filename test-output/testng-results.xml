@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41431" started-at="2016-07-20T00:08:44Z" finished-at="2016-07-20T00:09:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41431" started-at="2016-07-20T00:08:44Z" finished-at="2016-07-20T00:09:26Z">
+      <class name="testcases.TC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC001@df4efb]" name="beforeSuite" is-config="true" duration-ms="1196" started-at="2016-07-20T05:38:43Z" finished-at="2016-07-20T05:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC001@df4efb]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-07-20T05:38:44Z" finished-at="2016-07-20T05:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="executeBeforeClass()[pri:0, instance:testcases.TC001@df4efb]" name="executeBeforeClass" is-config="true" duration-ms="1" started-at="2016-07-20T05:38:44Z" finished-at="2016-07-20T05:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeBeforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC001@df4efb]" name="beforeMethod" is-config="true" duration-ms="8676" started-at="2016-07-20T05:38:46Z" finished-at="2016-07-20T05:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="executeTC001(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC001@df4efb]" name="executeTC001" duration-ms="28843" started-at="2016-07-20T05:38:54Z" data-provider="fetchData" finished-at="2016-07-20T05:39:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karthielex@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sjb@1986]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Karthikeyan S]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[QTP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTC001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC001@df4efb]" name="afterMethod" is-config="true" duration-ms="2491" started-at="2016-07-20T05:39:23Z" finished-at="2016-07-20T05:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC001@df4efb]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-07-20T05:39:26Z" finished-at="2016-07-20T05:39:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC001@df4efb]" name="afterSuite" is-config="true" duration-ms="751" started-at="2016-07-20T05:39:26Z" finished-at="2016-07-20T05:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
